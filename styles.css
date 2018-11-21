@@ -1,0 +1,49 @@
+h1 { 
+    font-family: 'Cinzel', serif;
+     text-align:center;
+     font-size:50px;
+     line-height:1em;
+     text-decoration:underline;
+}
+
+.female {
+    font-family: 'Lobster Two', cursive;
+    font-size:39px;
+    text-align:center;
+}
+img {
+    height:370px;
+    width:230px;
+    border:double 10px #000 ;
+}
+body {
+    text-align:center;
+}
+
+.cat {
+    width:350px;
+}
+.dog {
+    width:300px;
+}
+p {
+    font-size:25px;
+}
+
+.male {
+    font-family: 'Norican', cursive;
+    font-size: 40px;
+}
+.video {
+    font-family: 'Alegreya SC', serif;
+    font-size:40px;
+}
+
+.tv {
+    font-family: 'Emilys Candy', cursive;
+    font-size:40px;
+}
+
+body {
+    background:#FFB6C1 ;
+    }
